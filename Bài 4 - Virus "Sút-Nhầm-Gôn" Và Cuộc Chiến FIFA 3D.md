@@ -1,5 +1,8 @@
 # Virus "Sút-Nhầm-Gôn" Và Trận Chung Kết Sevastopol
 
+> [!WARNING]
+> Rất khó với bảng B
+
 Năm $2026$, do Trái Đất nóng lên làm tan chảy lớp băng vĩnh cửu tại Nam Cực, một chủng virus cổ đại có tên **"Virus Sút-Nhầm-Gôn" (Code-name: SNG-26)** đã thức giấc. Virus này sở hữu khả năng siêu nhiên: Bất kỳ siêu sao bóng đá nào nhiễm phải sẽ lập tức hóa thân thành "tiền vệ cho đội bạn".
 
 Virus SNG-26 đã lây nhiễm vào Trạm Không Gian Trái Đất (Trạm Sevastopol) - nơi đang tổ chức trận Chung kết Giải Bóng đá Vũ trụ $3D$. Trạm được mô hình hóa thành một không gian $3D$ gồm các phòng có tọa độ $(x, y, z)$ với $1 \le x \le X$, $1 \le y \le Y$, $1 \le z \le Z$. Mỗi ô chứa một chỉ số lây nhiễm $V(x, y, z)$.
