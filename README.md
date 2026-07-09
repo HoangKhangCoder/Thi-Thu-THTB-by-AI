@@ -20,5 +20,7 @@
 > [Test #8] [AC] Passed | Time: 25.35ms | Memory: 12.25MB
 > 
 > [Test #9] [WA] Wrong Answer
+>
+> [Test #10] [WA] Wrong Answer
 > 
 > ### RESULT: Passed 5/10 tests. Total Score: 50.00/100
