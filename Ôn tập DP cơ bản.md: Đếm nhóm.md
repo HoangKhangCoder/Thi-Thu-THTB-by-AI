@@ -6,7 +6,7 @@ Hai bạn Bi và Dino vừa được tặng một hộp bí ẩn. Hai bạn mở
 Vì quá buồn ngủ vì cơn mưa nên Bi đã nhờ những người bạn giải giùm. Bạn hãy giải giùm bạn Bi. Vì kết quả có thể rất lớn nên hãy chia dư cho $10^9+7$.
 
 ### Input:
-- Một Dòng duy nhất là một số nguyên $N \space (1 \leq N \leq 10^12)$
+- Một Dòng duy nhất là một số nguyên $N \space (1 \leq N \leq 10^{12})$
 
 ### Output:
 - Một dòng là kết quả duy nhất của bài toán khi chia dư cho $10^9 + 7$
