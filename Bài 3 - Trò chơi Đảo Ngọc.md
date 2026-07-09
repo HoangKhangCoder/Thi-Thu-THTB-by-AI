@@ -43,23 +43,26 @@ Alice và Bob cùng tham gia một trò chơi thu thập đá quý trên biển.
 #### In ra:
 ```
 3
-9
+7
 ```
 
 > #### Giải thích:
-> Các đường đi độ dài K = 2 bắt đầu từ (0,0):
-> - (0,0) -> (1,2) -> (2,4): Tổng giá trị = 3 + 4 = 7 (Lẻ) -> Thỏa mãn.
-> - (0,0) -> (1,2) -> (4,5): Tổng giá trị = 3 + 2 = 5 (Lẻ) -> Thỏa mãn.
-> - (0,0) -> (3,1) -> (4,5): Tổng giá trị = 5 + 2 = 7 (Lẻ) -> Thỏa mãn.
-> - (0,0) -> (2,4) -> (4,5): Tổng giá trị = 4 + 2 = 6 (Chẵn).
+> Các đường đi hợp lệ độ dài $K = 2$ bắt đầu từ $(0,0)$ thỏa mãn tọa độ $X, Y$ tăng nghiêm ngặt:
+> - $(0,0) \rightarrow (1,2) \rightarrow (2,4)$: Tổng giá trị = $3 + 4 = 7$ (Lẻ) $\rightarrow$ Thỏa mãn.
+> - $(0,0) \rightarrow (1,2) \rightarrow (4,5)$: Tổng giá trị = $3 + 2 = 5$ (Lẻ) $\rightarrow$ Thỏa mãn.
+> - $(0,0) \rightarrow (3,1) \rightarrow (4,5)$: Tổng giá trị = $5 + 2 = 7$ (Lẻ) $\rightarrow$ Thỏa mãn.
+> - $(0,0) \rightarrow (2,4) \rightarrow (4,5)$: Tổng giá trị = $4 + 2 = 6$ (Chẵn).
+> 
+> Số đường đi có tổng giá trị là số lẻ bằng **3**.  
+> Tổng giá trị đá quý lớn nhất thu được từ một đường đi hợp lệ độ dài $K = 2$ là **7** (từ đường đi thứ 1 hoặc thứ 3).
 > 
 > Số đường đi có tổng lẻ là 3.
-> Tổng giá trị lớn nhất từ đường đi độ dài 2 bất kỳ là: (0,0) -> (3,1) -> (2,4) không hợp lệ (không thỏa mãn X, Y tăng), đường đi cho tổng lớn nhất là (1,2) -> (2,4) kèm điểm đảo là 3 + 4 = 7, hoặc chọn đường đi dài hơn. Giá trị lớn nhất thu được từ 2 đảo thỏa mãn tọa độ tăng là (3,1) [V=5] + (2,4) [V=4] không hợp lệ X, chọn (1,2) [V=3] + (3,1) không hợp lệ Y. Các cặp hợp lệ:
-> + (1,2) & (2,4): V = 3 + 4 = 7
-> + (1,2) & (4,5): V = 3 + 2 = 5
-> + (2,4) & (4,5): V = 4 + 2 = 6
-> + (3,1) & (4,5): V = 5 + 2 = 7
-> Do đó giá trị lớn nhất thu được từ 2 đảo hợp lệ là 7.
+> Tổng giá trị lớn nhất từ đường đi độ dài $2$ bất kỳ là: $(0,0) \rightarrow (3,1) rightarrow (2,4)$ không hợp lệ (không thỏa mãn X, Y tăng), đường đi cho tổng lớn nhất là $(1,2) \rightarrow (2,4)$ kèm điểm đảo là $3 + 4 = 7$, hoặc chọn đường đi dài hơn. Giá trị lớn nhất thu được từ $2$ đảo thỏa mãn tọa độ tăng là $(3,1) [V=5] + (2,4) [V=4]$ không hợp lệ $X$, chọn $(1,2) [V=3] + (3,1)$ không hợp lệ $Y$. Các cặp hợp lệ:
+> + $(1,2)$ & $(2,4): V = 3 + 4 = 7$
+> + $(1,2)$ & $(4,5): V = 3 + 2 = 5$
+> + $(2,4)$ & $(4,5): V = 4 + 2 = 6$
+> + $(3,1)$ & $(4,5): V = 5 + 2 = 7$
+> Do đó giá trị lớn nhất thu được từ $2$ đảo hợp lệ là $7$.
 
 ---
 
