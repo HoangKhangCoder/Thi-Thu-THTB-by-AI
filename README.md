@@ -8,7 +8,7 @@
 > Có những bài yêu cầu chia dư cho $10^9+7$
 
 > [!TIP]
-> Topic bài 1: ??? (`SECRET` vì chưa ai giải ra)
+> Topic bài 1: `Math`
 > 
 > Topic bài 2: `Dynamic Programming`, `Math`, `Matrix`, `Number Theory`
 > 
