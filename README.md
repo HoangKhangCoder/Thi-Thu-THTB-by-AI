@@ -4,6 +4,9 @@
 > [!NOTE]
 > Tất cả bài đều có thời gian tối đa là $1$ s và bộ nhớ tối đa là $256$ MB. Ngoại trừ bài $5$ thời gian tối đa là $2$ s và bộ nhớ tối đa là $512$ MB
 
+> [!IMPORTANT]
+> Chưa có bộ test cho bài 4. Dự kiến mai ($10/7/2026$) sẽ có
+
 > [!WARNING]
 > Có những bài yêu cầu chia dư cho $10^9+7$
 
