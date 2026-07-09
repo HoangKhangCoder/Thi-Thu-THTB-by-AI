@@ -3,7 +3,7 @@
 > [!WARNING]
 > Rất khó với bảng B
 
-Năm $2026$, do Trái Đất nóng lên làm tan chảy lớp băng vĩnh cửu tại Nam Cực, một chủng virus cổ đại có tên **"Virus Sút-Nhầm-Gôn" (Code-name: SNG-26)** đã thức giấc. Virus này sở hữu khả năng siêu nhiên: Bất kỳ siêu sao bóng đá nào nhiễm phải sẽ lập tức hóa thân thành "tiền vệ cho đội bạn".
+Năm $2026$, do Trái Đất nóng lên làm tan chảy lớp băng vĩnh cửu tại Nam Cực, một chủng virus cổ đại có tên **"Virus Sút-Nhầm-Gôn" (Code-name: SNG-26)** đã thức giấc. Virus này sở hữu khả năng siêu nhiên: Bất kỳ siêu sao bóng đá nào nhiễm phải sẽ lập tức hóa thân thành "tiền đạo cho đội bạn".
 
 Virus SNG-26 đã lây nhiễm vào Trạm Không Gian Trái Đất (Trạm Sevastopol) - nơi đang tổ chức trận Chung kết Giải Bóng đá Vũ trụ $3D$. Trạm được mô hình hóa thành một không gian $3D$ gồm các phòng có tọa độ $(x, y, z)$ với $1 \le x \le X$, $1 \le y \le Y$, $1 \le z \le Z$. Mỗi ô chứa một chỉ số lây nhiễm $V(x, y, z)$.
 
@@ -13,7 +13,7 @@ Do các phòng liên kết phức tạp qua hệ thống ống dẫn khí đa ch
 2. Hai người chơi lượt lượt di chuyển Robot sang các ô lân cận theo các hướng ống dẫn khí cho phép trên ma trận $3D$.
 3. Khi Robot di chuyển qua các khu vực, năng lượng của nó sẽ kích hoạt tính năng làm thay đổi chỉ số lây nhiễm của một **khối hộp không gian $3D$** từ $(x_1, y_1, z_1)$ đến $(x_2, y_2, z_2)$.
 4. Một vùng không gian được xem là "An toàn" nếu tổng chỉ số lây nhiễm tích lũy thuộc tập giá trị Grundy chiến thắng (thỏa mãn quy tắc Nim-sum của đồ thị $3D$).
-5. Người chơi nào bị đẩy vào vị trí mà Robot không thể tiếp tục di chuyển hoặc rơi vào vùng có tổng chỉ số lây nhiễm bất lợi sẽ thua cuộc và chính thức trở thành **"tiền vệ cho đội bạn"**.
+5. Người chơi nào bị đẩy vào vị trí mà Robot không thể tiếp tục di chuyển hoặc rơi vào vùng có tổng chỉ số lây nhiễm bất lợi sẽ thua cuộc và chính thức trở thành **"tiền đạo cho đội bạn"**.
 
 Bạn hãy viết chương trình xử lý chuỗi $Q$ sự kiện biến đổi không gian và truy vấn trạng thái trò chơi trên trạm Sevastopol.
 
@@ -31,7 +31,7 @@ Bạn hãy viết chương trình xử lý chuỗi $Q$ sự kiện biến đổi
 ### Đầu ra
 - Với mỗi sự kiện loại $2$, in ra trên một dòng gồm hai thông tin cách nhau bởi dấu khoảng trắng:
   - Tổng chỉ số lây nhiễm trong khối hộp (chia lấy dư cho $10^9 + 7$).
-  - Trạng thái lượt đi của người chơi hiện tại: `WIN` (nếu có chiến thuật thắng) hoặc `LOSE` (nếu cầm chắc thất bại và trở thành "tiền vệ cho đội bạn").
+  - Trạng thái lượt đi của người chơi hiện tại: `WIN` (nếu có chiến thuật thắng) hoặc `LOSE` (nếu cầm chắc thất bại và trở thành "tiền đạo cho đội bạn").
 
 > [!NOTE]
 > Thời gian tối đa: $2$ s
