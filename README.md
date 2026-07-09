@@ -21,4 +21,4 @@
 >
 > Topic bài 5: `3D Array`, `Prefix Sum`,` Binary Indexed Tree / Fenwick Tree`, `Game Theory` (Chưa có ai giải nhưng vì đề khó)
 >
-> Topic bài 6 (Ôn tập `DP` cơ bản): `DP`
+> Topic bài 6 (Ôn tập `DP` cơ bản): `DP`, `Math`.
