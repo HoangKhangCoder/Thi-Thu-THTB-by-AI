@@ -31,15 +31,20 @@ Alice và Bob cùng tham gia một trò chơi thu thập đá quý trên biển.
 
 ### Ví dụ 1:
 #### Nhập vào:
+
+```
 4 2
 1 2 3
 2 4 4
 3 1 5
 4 5 2
+```
 
 #### In ra:
+```
 3
 9
+```
 
 > #### Giải thích:
 > Các đường đi độ dài K = 2 bắt đầu từ (0,0):
