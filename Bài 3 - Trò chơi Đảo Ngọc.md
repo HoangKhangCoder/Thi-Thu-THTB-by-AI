@@ -22,10 +22,10 @@ Alice và Bob cùng tham gia một trò chơi thu thập đá quý trên biển.
 - Dòng thứ hai: Tổng giá trị đá quý lớn nhất thu được từ một đường đi độ dài $K$. Nếu không tồn tại đường đi độ dài $K$, in ra $-1$.
 
 ### Scoring:
-- Subtask 1 ($20\%$ số điểm): $N \le 10, K \le N$.
-- Subtask 2 ($30\%$ số điểm): $N \le 1000, K \le N$.
-- Subtask 3 ($30\%$ số điểm): $N \le 10^5, K \le 20$.
-- Subtask 4 ($20\%$ số điểm): Không có giới hạn gì thêm.
+- Subtask 1 ($20\%$  số điểm): $N \le 10, K \le N$.
+- Subtask 2 ($30\%$  số điểm): $N \le 1000, K \le N$.
+- Subtask 3 ($30\%$  số điểm): $N \le 10^5, K \le 20$.
+- Subtask 4 ($20\%$  số điểm): Không có giới hạn gì thêm.
 
 ---
 
