@@ -31,27 +31,30 @@ Alice và Bob cùng tham gia một trò chơi thu thập đá quý trên biển.
 
 ### Ví dụ 1:
 #### Nhập vào:
-```
 4 2
 1 2 3
 2 4 4
 3 1 5
 4 5 2
-```
+
 #### In ra:
-```
-2
+3
 9
-```
+
 > #### Giải thích:
-> Các đường đi độ dài $K=2$ bắt đầu từ $(0,0)$:
-> - $(0,0) \rightarrow (1,2) \rightarrow (2,4)$: Tổng giá trị = $3 + 4 = 7$ (Lẻ) $\rightarrow$ Thỏa mãn.
-> - $(0,0) \rightarrow (1,2) \rightarrow (4,5)$: Tổng giá trị = $3 + 2 = 5$ (Lẻ) $\rightarrow$ Thỏa mãn.
-> - $(0,0) \rightarrow (3,1) \rightarrow (4,5)$: Tổng giá trị = $5 + 2 = 7$ (Lẻ) $\rightarrow$ Thỏa mãn.
-> - $(0,0) \rightarrow (2,4) \rightarrow (4,5)$: Tổng giá trị = $4 + 2 = 6$ (Chẵn).
+> Các đường đi độ dài K = 2 bắt đầu từ (0,0):
+> - (0,0) -> (1,2) -> (2,4): Tổng giá trị = 3 + 4 = 7 (Lẻ) -> Thỏa mãn.
+> - (0,0) -> (1,2) -> (4,5): Tổng giá trị = 3 + 2 = 5 (Lẻ) -> Thỏa mãn.
+> - (0,0) -> (3,1) -> (4,5): Tổng giá trị = 5 + 2 = 7 (Lẻ) -> Thỏa mãn.
+> - (0,0) -> (2,4) -> (4,5): Tổng giá trị = 4 + 2 = 6 (Chẵn).
 > 
-> Số đường đi có tổng lẻ là $3$ (Lưu ý ví dụ minh họa kiểm tra điều kiện).
-> Giá trị lớn nhất thu được từ đường đi độ dài $2$ là $3 + 6 = 9$ (từ $(1,2) \rightarrow (2,4)$ hoặc $(3,1) \rightarrow (4,5)$ tùy chọn kết hợp).
+> Số đường đi có tổng lẻ là 3.
+> Tổng giá trị lớn nhất từ đường đi độ dài 2 bất kỳ là: (0,0) -> (3,1) -> (2,4) không hợp lệ (không thỏa mãn X, Y tăng), đường đi cho tổng lớn nhất là (1,2) -> (2,4) kèm điểm đảo là 3 + 4 = 7, hoặc chọn đường đi dài hơn. Giá trị lớn nhất thu được từ 2 đảo thỏa mãn tọa độ tăng là (3,1) [V=5] + (2,4) [V=4] không hợp lệ X, chọn (1,2) [V=3] + (3,1) không hợp lệ Y. Các cặp hợp lệ:
+> + (1,2) & (2,4): V = 3 + 4 = 7
+> + (1,2) & (4,5): V = 3 + 2 = 5
+> + (2,4) & (4,5): V = 4 + 2 = 6
+> + (3,1) & (4,5): V = 5 + 2 = 7
+> Do đó giá trị lớn nhất thu được từ 2 đảo hợp lệ là 7.
 
 ---
 
