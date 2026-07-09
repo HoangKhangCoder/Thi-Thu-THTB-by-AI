@@ -10,3 +10,7 @@
 > Topic bài 2: `Dynamic Programming`, `Math`, `Matrix`, `Number Theory`
 > 
 > Topic bài 3: ??? (`SECRET` vì chưa ai giải ra)
+>
+> Topic bài 4: ??? (`SECRET` vì chưa ai giải ra)
+>
+> Topic bài 5: `3D Array`, `Prefix Sum`,` Binary Indexed Tree / Fenwick Tree`, `Game Theory` (Nói vì khó)
