@@ -33,7 +33,7 @@ Bạn hãy viết chương trình xử lý chuỗi $Q$ sự kiện biến đổi
 > [!NOTE]
 > Thời gian tối đa: $2$ s
 > 
-> Bộ nhớ tối đa: $516$ MB
+> Bộ nhớ tối đa: $512$ MB
 
 ---
 
