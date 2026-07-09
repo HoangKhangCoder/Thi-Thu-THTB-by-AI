@@ -47,26 +47,26 @@ Bạn hãy viết chương trình tìm Lợi Nhuận lớn nhất mà Lãnh chú
 ```
 
 ### Giải thích ví dụ 1:
->Xét tất cả các vị trí đặt máy hút có độ dài $K = 3$ trên dãy $A = [2, 1, 5, 3, 4, 1]$:
+> Xét tất cả các vị trí đặt máy hút có độ dài $K = 3$ trên dãy $A = [2, 1, 5, 3, 4, 1]$:
 >
->1. Đặt máy hút tại kho $1$ đến kho $3$ (các kho $1, 2, 3$):
->   - Hút được: $2 + 1 + 5 = 8$.
->   - Bị chuột cướp: kho $4$ (giá trị $3$).
->   - Lợi nhuận $= 8 - 3 = 5$.
+> 1. Đặt máy hút tại kho $1$ đến kho $3$ (các kho $1, 2, 3$):
+>    - Hút được: $2 + 1 + 5 = 8$.
+>    - Bị chuột cướp: kho $4$ (giá trị $3$).
+>    - Lợi nhuận = $8 - 3 = 5$.
 >
->2. Đặt máy hút tại kho $2$ đến kho $4$ (các kho $2, 3, 4$):
->   - Hút được: $1 + 5 + 3 = 9$.
->   - Bị chuột cướp: kho $1$ (giá trị $2$) và kho $5$ (giá trị $4$).
->   - Lợi nhuận $= 9 - (2 + 4) = 3$.
+> 2. Đặt máy hút tại kho $2$ đến kho $4$ (các kho $2, 3, 4$):
+>    - Hút được: $1 + 5 + 3 = 9$.
+>    - Bị chuột cướp: kho $1$ (giá trị $2$) và kho $5$ (giá trị $4$).
+>    - Lợi nhuận = $9 - (2 + 4) = 3$.
 >
->3. Đặt máy hút tại kho $3$ đến kho $5$ (các kho $3, 4, 5$):
->   - Hút được: $5 + 3 + 4 = 12$.
->   - Bị chuột cướp: kho $2$ (giá trị $1$) và kho $6$ (giá trị $1$).
->   - Lợi nhuận $= 12 - (1 + 1) = 10$.
+> 3. Đặt máy hút tại kho $3$ đến kho $5$ (các kho $3, 4, 5$):
+>    - Hút được: $5 + 3 + 4 = 12$.
+>    - Bị chuột cướp: kho $2$ (giá trị $1$) và kho $6$ (giá trị $1$).
+>    - Lợi nhuận = $12 - (1 + 1) = 10$.
 >
->4. Đặt máy hút tại kho $4$ đến kho $6$ (các kho $4, 5, 6$):
->   - Hút được: $3 + 4 + 1 = 8$.
->   - Bị chuột cướp: kho $3$ (giá trị $5$).
->   - Lợi nhuận $= 8 - 5 = 3$.
+> 4. Đặt máy hút tại kho $4$ đến kho $6$ (các kho $4, 5, 6$):
+>    - Hút được: $3 + 4 + 1 = 8$.
+>    - Bị chuột cướp: kho $3$ (giá trị $5$).
+>    - Lợi nhuận = $8 - 5 = 3$.
 >
->Kết quả lợi nhuận lớn nhất tìm được là $10$ (khi chọn đặt máy hút từ kho $3$ đến kho $5$).
+> Kết quả lợi nhuận lớn nhất tìm được là $10$ (khi chọn đặt máy hút từ kho $3$ đến kho $5$).
