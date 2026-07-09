@@ -1,4 +1,4 @@
-## Chọn số
+## Đếm nhóm
 
 Hai bạn Bi và Dino vừa được tặng một hộp bí ẩn. Hai bạn mở ra và chỉ toàn là hạt gạo. Hôm nay trời đang nắng tự dưng có mưa buồn. Hai bạn liền lấy hộp "gạo" đó ra và đếm từng hạt và hai bạn đếm ra có tổng cộng $N$ hạt, bổng dưng Dino thách Bi một câu đố:
 “Từ $N$ hạt gạo chúng ta có, có bao nhiêu cách để tạo ra các nhóm có số lượng hạt gạo mỗi nhóm ít nhất là $1$ và tổng các nhóm ra chính xác $N$ hạt gạo?”
