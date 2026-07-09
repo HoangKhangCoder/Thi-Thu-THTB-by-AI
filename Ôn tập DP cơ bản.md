@@ -14,8 +14,9 @@ Vì quá buồn ngủ vì cơn mưa nên Bi đã nhờ những người bạn gi
 
 ### Scoring
 
-- Subtask 1 ($60\%$ số điểm): $N \leq 10^7$
-- Subtask 2 ($40\%$ số điểm): Không có giới hạn gì thêm
+- Subtask 1 ($30\%$ số điểm): $N \leq 10^3$
+- Subtask 2 ($30\%$ số điểm): $N \leq 10^7$
+- Subtask 3 ($40\%$ số điểm): Không có giới hạn gì thêm
 
 ---
 
