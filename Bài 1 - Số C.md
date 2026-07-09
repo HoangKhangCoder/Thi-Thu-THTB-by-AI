@@ -19,6 +19,8 @@ Alice muốn biết rằng sau $N$ thì $C_N$ sẽ có giá trị bằng bao nhi
 - Subtask 2 ($20\%$ số điểm): $N \leq 10^7$
 - Subtask 3 ($20\%$ số điểm): Không có giới hạn gì thêm
 
+---
+
 ### Ví dụ 1:
 #### Nhập vào:
 ```
@@ -35,7 +37,9 @@ Alice muốn biết rằng sau $N$ thì $C_N$ sẽ có giá trị bằng bao nhi
 > 
 > $C_1 = 0 + 2 = 2$
 
-### Ví dụ 1:
+---
+
+### Ví dụ 2:
 #### Nhập vào:
 ```
 7
