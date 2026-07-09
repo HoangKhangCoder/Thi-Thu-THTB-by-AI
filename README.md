@@ -13,4 +13,4 @@
 >
 > Topic bài 4: ??? (`SECRET` vì chưa ai giải ra)
 >
-> Topic bài 5: `3D Array`, `Prefix Sum`,` Binary Indexed Tree / Fenwick Tree`, `Game Theory` (Nói vì khó)
+> Topic bài 5: `3D Array`, `Prefix Sum`,` Binary Indexed Tree / Fenwick Tree`, `Game Theory` (Chưa có ai giải nhưng vì đề nó khó)
