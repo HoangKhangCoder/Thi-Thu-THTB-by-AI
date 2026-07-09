@@ -1,6 +1,9 @@
 > [!CAUTION]
 > ### Bài thi này không đếm thời gian và không cho biết test case!
 
+> [!WARNING]
+> Đang kiểm tra bộ test bài $2^{nd}$ - Di chuyển
+
 > [!IMPORTANT]
 > ## User $1^{st}$ | Problem $2^{nd}$ | $1^{st}$ Submission
 > [Test #1] [AC] Passed | Time: 22.61ms | Memory: 11.83MB
