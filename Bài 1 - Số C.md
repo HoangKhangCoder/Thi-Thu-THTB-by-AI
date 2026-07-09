@@ -13,6 +13,12 @@ Alice muốn biết rằng sau $N$ thì $C_N$ sẽ có giá trị bằng bao nhi
 ### Output:
 - Một dòng là kết quả duy nhất của bài toán khi chia dư cho $10^9 + 7$
 
+### Scoring
+
+- Subtask 1 ($60\%$ số điểm): $N \leq 10^6$
+- Subtask 2 ($20\%$ số điểm): $N \leq 10^7$
+- Subtask 3 ($20\%$ số điểm): Không có giới hạn gì thêm
+
 ### Ví dụ 1:
 #### Nhập vào:
 ```
