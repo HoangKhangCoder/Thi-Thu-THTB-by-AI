@@ -2,4 +2,8 @@
 > ### Bài thi này không đếm thời gian và không cho biết test case!
 
 > [!TIP]
-> Code User $1^{st}$ cho bài 2 (Di chuyển) đúng hết [AC]!
+> Topic bài 1: ??? (`SECRET` vì chưa ai giải ra)
+> 
+> Topic bài 2: `Dynamic Programming`, `Math`, `Matrix`, `Number Theory`
+> 
+> Topic bài 3: ??? (`SECRET` vì chưa ai giải ra)
