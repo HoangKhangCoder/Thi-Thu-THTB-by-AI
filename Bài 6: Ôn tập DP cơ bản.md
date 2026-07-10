@@ -5,7 +5,7 @@ Hai bạn Bi và Dino vừa được tặng một hộp bí ẩn. Hai bạn mở
 
 Vì quá buồn ngủ vì cơn mưa nên Bi đã nhờ những người bạn giải giùm. Bạn hãy giải giùm bạn Bi. Vì kết quả có thể rất lớn nên hãy chia dư cho $10^9+7$.
 > [!WARNING]
-> Ví dụ nhóm $(1, 2)$ và $(2, 1)$ được tính là $1$ nhóm duy nhất!
+> Ví dụ nhóm $(1, 2)$ và $(2, 1)$ được tính là $2$ nhóm!
 ### Input:
 - Một Dòng duy nhất là một số nguyên $N \space (1 \leq N \leq 10^{12})$
 
@@ -14,10 +14,9 @@ Vì quá buồn ngủ vì cơn mưa nên Bi đã nhờ những người bạn gi
 
 ### Scoring
 
-- Subtask 1 ($20\%$ số điểm): $N \leq 100$
-- Subtask 2 ($10\%$ số điểm): $N \leq 10^3$
-- Subtask 3 ($30\%$ số điểm): $N \leq 10^7$
-- Subtask 4 ($40\%$ số điểm): Không có giới hạn gì thêm
+- Subtask 1 ($30\%$ số điểm): $N \leq 100$
+- Subtask 2 ($30\%$ số điểm): $N \leq 10^3$
+- Subtask 3 ($40\%$ số điểm): $N \leq 10^7$
 
 ---
 
