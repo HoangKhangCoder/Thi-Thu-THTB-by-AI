@@ -29,4 +29,5 @@ Give me a star, please! Thank you!
 
 ## Log
 
-Bài 6 có sửa đổi
+- Từ ban đầu $3$ bài đã được thêm $7$ bài thành ra có $10$ bài siêu đa dạng.
+- Bài $6$ có sửa đổi
