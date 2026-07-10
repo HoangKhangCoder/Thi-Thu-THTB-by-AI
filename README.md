@@ -1,5 +1,7 @@
 Give me a star, please! Thank you!
 
+## Informations
+
 > [!CAUTION]
 > ### Bài thi này không đếm thời gian và không cho biết test case!
 
@@ -24,3 +26,7 @@ Give me a star, please! Thank you!
 > Topic bài 5: `3D Array`, `Prefix Sum`,` Binary Indexed Tree / Fenwick Tree`, `Game Theory`
 >
 > Topic bài 6 (Ôn tập `DP` cơ bản): `DP`, `Math`.
+
+## Log
+
+Bài 6 có sửa đổi
