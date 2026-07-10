@@ -27,7 +27,7 @@ Vì quá buồn ngủ vì cơn mưa nên Bi đã nhờ những người bạn gi
 ```
 #### In ra:
 ```
-3
+4
 ```
 
 ---
@@ -35,9 +35,9 @@ Vì quá buồn ngủ vì cơn mưa nên Bi đã nhờ những người bạn gi
 ### Ví dụ 2:
 #### Nhập vào:
 ```
-7
+5
 ```
 #### In ra:
 ```
-63
+16
 ```
