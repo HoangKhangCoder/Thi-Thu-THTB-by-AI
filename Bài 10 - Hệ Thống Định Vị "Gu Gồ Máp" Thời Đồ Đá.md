@@ -1,6 +1,6 @@
 # Hệ Thống Định Vị "Gu Gồ Máp" Thời Đồ Đá (Bản Cập Nhật Siêu Kẹt Đường)
 
-Vào kỷ Phấn Trắng năm $2026$, một cuộc khủng hoảng nghiêm trọng đã nổ ra tại thung lũng Gomora. Vì quá "đồ đá" và lạc hậu (chẳng khác gì anh bạn **Henry** từ thế kỷ $1800$ xuyên không về), hội khủng long ở đây hoàn toàn mù tịt đường đi lối lại và không biết cách sử dụng các ứng dụng hiện đại như Google Maps. Hậu quả là chúng liên tục đi lạc vào đầm lầy hoặc hang núi lửa.
+Vào kỷ Phấn Trắng năm $2026$, một cuộc khủng hoảng nghiêm trọng đã nổ ra tại thung lũng Gomora. Vì quá "đồ đá" và lạc hậu (chẳng khác gì anh bạn **Henry** từ thế kỷ $XVIII$ xuyên không về), hội khủng long ở đây hoàn toàn mù tịt đường đi lối lại và không biết cách sử dụng các ứng dụng hiện đại như Google Maps. Hậu quả là chúng liên tục đi lạc vào đầm lầy hoặc hang núi lửa.
 
 Đứng trước tình cảnh đó, thiên tài công nghệ của bộ tộc — đại ca **T-Rex Cọc Cằn** — đã tự tay lập trình và phát triển một hệ thống định vị nội bộ mang tên **"Gu Gồ Máp"**. Bản đồ của T-Rex hoạt động trên một hệ lưới tọa độ nguyên. Có tổng cộng $V$ địa điểm quan trọng được đánh dấu bằng các cặp tọa độ $(x, y)$.
 
