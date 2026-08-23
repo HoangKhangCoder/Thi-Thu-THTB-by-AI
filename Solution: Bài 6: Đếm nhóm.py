@@ -41,11 +41,7 @@ def solve_large(n):
     return -1
 
 def solve(n):
-    if n <= 10**5:
-        return solve_small(n)
-    else:
-        # Đối với n rất lớn, bài toán yêu cầu trả lời "Bi"
-        return solve_large(n)
+    return solve_small(n)
 
 n = int(input())
 
