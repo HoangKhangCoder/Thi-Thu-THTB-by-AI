@@ -224,9 +224,9 @@
 ### So sánh với LeetCode:
 
 - **LeetCode Easy:** 2 bài (Bài 1, 4)
-- **LeetCode Medium:** 5 bài (Bài 2, 7, 8, 10)
+- **LeetCode Medium:** 4 bài (Bài 2, 7, 8, 10)
 - **LeetCode Hard:** 2 bài (Bài 3, 9)
-- **LeetCode Hard+:** 1 bài (Bài 5, 6)
+- **LeetCode Hard+:** 2 bài (Bài 5, 6)
 
 ---
 
