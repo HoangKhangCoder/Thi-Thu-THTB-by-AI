@@ -17,7 +17,7 @@ Tun Tung Tun Sahour đang ở địa điểm nguồn $(x_{start}, y_{start})$ v�
 - Dòng thứ hai chứa 4 số nguyên $x_{start}, y_{start}, x_{end}, y_{end}$ biểu diễn tọa độ điểm xuất phát và điểm đích của Tun Tung Tun Sahour.
 - $E$ dòng tiếp theo, dòng thứ $i$ chứa 5 số nguyên $x_{1}, y_{1}, x_{2}, y_{2}, t$ ($0 \le t \le 10^5$) mô tả một tuyến đường một chiều từ $(x_{1}, y_{1})$ đến $(x_{2}, y_{2})$ mất thời gian là $t$. Các giá trị $t$ của các con đường có thể hoàn toàn khác nhau tùy thuộc vào địa hình.
 
-*(Dữ liệu đảm bảo các tọa độ $(x, y)$ trong file input đều là các số nguyên có giá trị tuyệt đối không vượt quá $10^9$ và nằm trong tập hợp $V$ địa điểm đã cho).*
+*(Dữ liệu đảm bảo các tọa độ* $(x, y)$ *trong file input đều là các số nguyên có giá trị tuyệt đối không vượt quá* $10^9$ *và nằm trong tập hợp* $V$ *địa điểm đã cho).*
 *Nếu bạn thắc mắc T-Rex dễ thương là ai? Thì ở đây*
 
 ![T-Rex](https://cdn.chuyentin.net/ctoj/martor/db4934bc-1261-44ee-8c77-07307a7f924b.png)
