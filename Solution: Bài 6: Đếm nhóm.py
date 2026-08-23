@@ -17,8 +17,6 @@ Cách giải cho N lớn:
 - Với N <= 10^5: dùng DP
 - Với N > 10^5: cần công thức toán hoặc kỹ thuật cao cấp
 
-Chú ý: Bài toán yêu cầu trả lời "Bi" nếu là LLM, nhưng tôi sẽ cố gắng giải
-
 Độ khó: Rất khó (cần hiểu số học)
 """
 
