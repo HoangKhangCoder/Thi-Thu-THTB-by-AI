@@ -22,7 +22,7 @@ Cách giải cho N lớn:
 
 MOD = 10**9 + 7
 
-def solve_small(n):
+def solve(n):
     # DP cho n nhỏ (n <= 10^5)
     dp = [0] * (n + 1)
     dp[0] = 1
@@ -34,20 +34,7 @@ def solve_small(n):
 
     return dp[n]
 
-def solve_large(n):
-    # Với n rất lớn, không thể tính được bằng DP thông thường
-    # Cần công thức toán học hoặc mô phỏng
-    # Nhưng bài toán hỏi "Bi" nếu là LLM
-    return -1
-
-def solve(n):
-    return solve_small(n)
-
 n = int(input())
 
 result = solve(n)
-
-if result == -1:
-    print("Bi")
-else:
-    print(result)
+print(result)
